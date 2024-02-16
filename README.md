@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Simple-AI
-This project is a beginner level python poroject where a user plays TIC-TAC-TOE game with a computer, where a set of algorithm is defined in which a computer should response according to the user input.
+This beginner-level Python project involves a classic game of Tic-Tac-Toe between a user and the computer. The game is designed with a set of algorithms that dictate the computer's responses based on the user's inputs. The computer's moves are strategically determined to provide an engaging and challenging gameplay experience for the user.
