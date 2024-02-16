@@ -16,6 +16,7 @@ This beginner-level Python project involves a classic game of Tic-Tac-Toe betwee
     you must install python in your system.
 <br>
     command to run  ---->  python3 TicTacToe_AI.py
+    <br>
     ![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/8b08898c-422d-41c3-b625-a328c2e71f9f)
 <br>
 ## Output
