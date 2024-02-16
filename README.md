@@ -17,7 +17,6 @@ you must install python in your system.
 <br>
 command to run  ---->  python3 TicTacToe_AI.py
 <br>
-![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/d2debf0a-0956-4ad0-88e6-ee90a9eaf7ca)
+![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/57a2e7e0-1352-4559-adac-f48fbd3a681a)
 <br>
 ## Output
-
