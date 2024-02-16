@@ -3,7 +3,7 @@ This beginner-level Python project involves a classic game of Tic-Tac-Toe betwee
 <br>
 ## Now time for the AI! This steps will be responsible for making the computers move. It will examine the board and determine which move is the best to make. The algorithm we will follow to do this is listed below.
 <br>
-If the current step cannot be completed proceed to the next.
+If the current step cannot be completed proceed to the next. <br>
 <br>
 step 1: If there is a winning move take it. <br>
 step 2: If the player has a possible winning move on their next turn move into that position. <br>
