@@ -25,6 +25,6 @@ command to run  ---->  python3 TicTacToe_AI.py
 
 ## Output
 <br>
-![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/c1a5d545-7588-4f16-9058-d451a013a576)
-![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/6a66dc67-f0ed-4eae-81ae-b8ed88337a7e)
-![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/50df59c6-bc50-494b-bad3-eef5e40db431)
+![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/c1a5d545-7588-4f16-9058-d451a013a576)<br>
+![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/6a66dc67-f0ed-4eae-81ae-b8ed88337a7e)<br>
+![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/50df59c6-bc50-494b-bad3-eef5e40db431)<br>
