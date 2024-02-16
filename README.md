@@ -19,7 +19,7 @@ step 6: If no move is possible the game is a tie. <br>
 you must install python in your system.
 <br> <br>
 command to run  ---->  python3 TicTacToe_AI.py
-<br>
+<br><br>
 ![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/57a2e7e0-1352-4559-adac-f48fbd3a681a)
 <br>
 
