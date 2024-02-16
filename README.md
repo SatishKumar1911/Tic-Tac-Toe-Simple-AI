@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Simple-AI
 This beginner-level Python project involves a classic game of Tic-Tac-Toe between a user and the computer. The game is designed with a set of algorithms that dictate the computer's responses based on the user's inputs. The computer's moves are strategically determined to provide an engaging and challenging gameplay experience for the user.
 
-Now time for the AI! This steps will be responsible for making the computers move. It will examine the board and determine which move is the best to make. The algorithm we will follow to do this is listed below.
+## Now time for the AI! This steps will be responsible for making the computers move. It will examine the board and determine which move is the best to make. The algorithm we will follow to do this is listed below.
 
     If the current step cannot be completed proceed to the next.
 
