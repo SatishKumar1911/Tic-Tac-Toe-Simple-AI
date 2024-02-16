@@ -12,7 +12,8 @@ step 4: Take the center position.
 step 5: Take one of the edges. If more than one is available randomly decide.
 step 6: If no move is possible the game is a tie.
 <br>
-## To Run
+## To Run.
+<br>
 you must install python in your system.
 <br>
 command to run  ---->  python3 TicTacToe_AI.py
