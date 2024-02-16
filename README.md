@@ -17,7 +17,8 @@ This beginner-level Python project involves a classic game of Tic-Tac-Toe betwee
 <br>
     command to run  ---->  python3 TicTacToe_AI.py
     <br>
-    ![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/8b08898c-422d-41c3-b625-a328c2e71f9f)
+    ![image](https://github.com/SatishKumar1911/Tic-Tac-Toe-Simple-AI/assets/124880943/d2debf0a-0956-4ad0-88e6-ee90a9eaf7ca)
+
 <br>
 ## Output
     
